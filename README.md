@@ -15,5 +15,5 @@
 7. gsd
 8. 
 ![사진](http://cfile2.uf.tistory.com/image/253EC03F5772041A074295)
-[동영상 http://cfile2.uf.tistory.com/image/253EC03F5772041A074295](https://www.youtube.com/watch?v=FxIgs-_BlYc)
+[http://cfile2.uf.tistory.com/image/253EC03F5772041A074295](https://www.youtube.com/watch?v=FxIgs-_BlYc)
 <a href="https://www.youtube.com/watch?v=FxIgs-_BlYc"><img src="http://cfile2.uf.tistory.com/image/253EC03F5772041A074295"></a>
